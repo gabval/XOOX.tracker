@@ -1,0 +1,28 @@
+[
+  {
+    "domain": ".twitter.com",
+    "expirationDate": 1799999999,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "auth_token",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "TU_AUTH_TOKEN_DE_TWITTER_AQUI"
+  },
+  {
+    "domain": ".twitter.com",
+    "expirationDate": 1799999999,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "ct0",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "TU_CT0_DE_TWITTER_AQUI"
+  }
+]
