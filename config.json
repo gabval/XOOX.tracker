@@ -1,0 +1,21 @@
+{
+  "telegram": {
+    "bot_token": "",
+    "chat_id": ""
+  },
+  "sniper": {
+    "private_key": "",
+    "rpc_url": "https://testnet-rpc.monad.xyz",
+    "buy_amount_mon": "0.1"
+  },
+  "tracker": {
+    "x_targets": [
+      "xooxdotfun",
+      "gabfag_"
+    ],
+    "web_target_url": "https://www.xoox.fun/",
+    "web_interval_seconds": 4.0,
+    "x_interval_min_seconds": 12.0,
+    "x_interval_max_seconds": 16.0
+  }
+}
